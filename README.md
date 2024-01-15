@@ -20,3 +20,30 @@ The visual analysis above shows that their might not be a significant positive c
 ![10Alytics Hackathon Submission - Victor Somadina_page-0003](https://github.com/victorsomadina/Unemployment-in-Africa/assets/103338741/23e8d824-5470-4fd0-9281-e4624413f3c1)
 
 Developing strategy appears to be leading by gap on the unemployment rate. Developing strategy only pose the false hope danger which might lead to more individuals that has lost hope in the government to provide adequate jobs. Setting up strategies or platform for youth is the only way to curb unemployement.
+
+#### How Access to Electricity Affects Unemployment Rate
+
+![10Alytics Hackathon Submission - Victor Somadina_page-0004](https://github.com/victorsomadina/Unemployment-in-Africa/assets/103338741/6d997e2b-e035-4b7a-bcc6-338f4f223c53)
+
+Across years from 2000 to 2020, as access to electricity increases, unemployment rate decreases except in 2020 which might also be as a result of covid-19
+
+#### Does Countries Business Density Affects Unemployment?
+
+![10Alytics Hackathon Submission - Victor Somadina_page-0005](https://github.com/victorsomadina/Unemployment-in-Africa/assets/103338741/3cdc60ef-9af0-410d-b221-55f921f1d73f)
+
+Yes, it does as countries with higher business density tends to have a more reduced unemployment rate.
+
+## Dashboard
+![10Alytics Hackathon Submission - Victor Somadina_page-0006](https://github.com/victorsomadina/Unemployment-in-Africa/assets/103338741/adf5c6da-db0b-4485-abc7-b5a6ec0ef36b)
+
+## Recommendation
+
+1. Access to Electricity can reduce unemployment rate as it paves way for creation of more Job opportunities.
+2. Reduce expenses in Education and allocate the funds to creating for platforms to employing graduates.
+3. Move from developing strategy to strategy operationalized and see unemployment rate at a low.
+4. Creating more businesses, organising bootcamps to train entrepreneurs, reducing the many laws mandating a business owner to encourage creation of businesses which can reduce unemployent rate. 
+
+
+
+
+
